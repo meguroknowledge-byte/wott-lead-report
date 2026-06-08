@@ -1,5 +1,4 @@
-[wott_dashboard_may_3.html](https://github.com/user-attachments/files/28706446/wott_dashboard_may_3.html)
-<!DOCTYPE html>
+
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
